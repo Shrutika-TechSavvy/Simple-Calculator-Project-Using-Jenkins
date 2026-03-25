@@ -31,3 +31,9 @@ Finished: SUCCESS
 
 Seeing Finished: SUCCESS was actually satisfying because it confirmed that everything—from GitHub
 <img width="1777" height="883" alt="image" src="https://github.com/user-attachments/assets/c27e4a45-a585-45f3-9fee-f9ae4a9048b0" />
+
+
+Now,I did few changes in the calculator.sh and jenkins build now shows output :
+<img width="1803" height="680" alt="image" src="https://github.com/user-attachments/assets/b45fe446-cd89-49c6-8502-9c9371559763" />
+<img width="1796" height="861" alt="image" src="https://github.com/user-attachments/assets/70c91c2a-e6db-401a-b9f1-e02188bf214d" />
+
